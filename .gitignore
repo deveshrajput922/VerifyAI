@@ -1,0 +1,8 @@
+.venv/
+venv/
+dataset_download/
+data/
+*.db
+__pycache__/
+.env
+models/*.pth
