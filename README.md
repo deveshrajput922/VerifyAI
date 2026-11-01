@@ -1,6 +1,6 @@
 🔍 VerifyAI
 
-AI-Assisted Document Screening & Tampering Detection
+AI-Powered Document Verification & Tampering Detection (Fraud Detection)
 
 VerifyAI is an AI-powered document screening prototype designed to identify potential document manipulation using OCR, computer vision, image analysis, and machine learning.
 
